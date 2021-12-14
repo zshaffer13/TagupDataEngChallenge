@@ -9,12 +9,21 @@ Two extra functions were also created in this project. The first one is a simple
 
 The second function is a way to upload the data to AWS S3. It is currently setup to upload an array that was saved to disk, but can be changed to pull directly from the Python script, removing the overhead of having to save each run to a disk first. To get this function to work, the function must be edited to include AWS login information. 
 
+![Feature_0](https://user-images.githubusercontent.com/55160277/145913054-6f3e4c8a-f0e7-48a9-a738-0ea29c6d889f.png)
+![Feature_1](https://user-images.githubusercontent.com/55160277/145913059-41183efd-69d3-4481-8eed-974a3a24c7bc.png)
+![Feature_2](https://user-images.githubusercontent.com/55160277/145913063-cc8411cc-1811-4583-a213-c4d316568f41.png)
+![Feature_3](https://user-images.githubusercontent.com/55160277/145913070-068d4422-bde2-46fe-b744-c291e6a373a1.png)
+
+
+
+
 ## Installation
 1. Download repository from GitHub.
 2. Extract folder to directory on device.
 3. Run script either on command line or in IDE. 
 
-## Required Packages
+## Required Packages!
+
 1. Pandas
 2. SQLite3
 3. Scipy
